@@ -1,14 +1,14 @@
 {
-	"items": [{
-		"slug": "70827-remote-google-deployment-engineer-dito",
-		"id": "70827",
-		"epoch": "1548795172",
-		"date": "2019-01-29T12:52:52-08:00",
-		"company": "Dito",
-		"company_logo": "https:\/\/remoteok.io\/assets\/jobs\/bc0f9bf0a5a98be757d15f2d02a64c77.png",
-		"position": "Google Deployment Engineer",
-		"tags": ["engineer"],
-		"description": "Google Deployment Engineer&nbsp;Dito is a leading provider of enterprise IT and cloud services partner, and we are looking for great people who are ready and eager to join our Professional Services team as a Google Deployment Engineer!&nbsp; The position is remote so you will hav...",
-		"url": "https:\/\/remoteok.io\/remote-jobs\/70827"
-	}]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
